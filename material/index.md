@@ -22,7 +22,8 @@
 * [Cryptography Stack Exchange](https://crypto.stackexchange.com/)
 * [Tianren Liu](https://liutianren.com)
 * [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/)
-* [Dongchen Li](https://billyldc.github.io)
+* [Dongchen Li](https://billyldc.github.io): An outsanding theoretical computer researcher.
+* [Ximeng Tang](https://tangximeng.xyz): A distinguished quantitative finance practitioner.
 * [SMS-PKU](https://www.math.pku.edu.cn)
 * [CFCS-PKU](http://cfcs.pku.edu.cn)
 
