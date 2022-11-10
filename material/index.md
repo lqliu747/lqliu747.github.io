@@ -36,3 +36,4 @@
 * You can find out how to write Markdown on Github on [this page](https://docs.github.com/cn/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * You can make your own UPUP picture in [this site](https://upuptoyou.com)
 * Make a academic webpage by [academicpages](https://github.com/academicpages/academicpages.github.io)
+* Convert an intuitive table into Latex (or other) codes by [this website](https://tablesgenerator.com)
