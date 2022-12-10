@@ -5,7 +5,6 @@
 * [Lecture notes by Oded Regev -- Lattices in Computer Sciences](https://cims.nyu.edu/~regev/teaching/lattices_fall_2004/)
 * [Lecure notes of UCSD -- Circuit Complexity](https://mathweb.ucsd.edu/~sbuss/CourseWeb/Math262A_2013F/)
 * [Zhihu Notes of Steven Yue](https://www.zhihu.com/column/c_1190932930565013504)
-* [Steven Yue's personal blog on cryptography, blockchain, and more.](http://blog.higashi.tech )
 * [Impagliazzo’s Five Worlds](https://www.cs.virginia.edu/~njb2b/cs4102/su21/files/slides/fiveworlds.pdf)
 * [Lattice Basis Reduction -- slides of UW](https://courses.cs.washington.edu/courses/cse590z/03au/cary.pdf)
 * [Lattice Basis Reduntion -- a chapter from version 2.0 of the book “Mathematics of Public Key Cryptography” by Steven Galbraith](https://www.math.auckland.ac.nz/~sgal018/crypto-book/ch17.pdf#:~:text=The%20goal%20of%20lattice%20basis%20reduction%20is%20to,algorithm%20to%20compute%20a%20basis%20satisfying%20this%20deﬁnition.)
