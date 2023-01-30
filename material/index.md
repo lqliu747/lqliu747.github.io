@@ -26,6 +26,10 @@
 * [SMS-PKU](https://www.math.pku.edu.cn)
 * [CFCS-PKU](http://cfcs.pku.edu.cn)
 
+# Cryptography Scholars
+
+* [Elette Boyle](https://cs.idc.ac.il/~elette/)
+
 # Other Information
 
 * [Mathcha](https://www.mathcha.io/editor)
